@@ -1,0 +1,22 @@
+[
+    {
+        "page_content": "这张图片展示的是麦肯锡全球研究院（McKinsey Global Institute）发布的**行业数字化指数**（Industry Digitization Index），数据基于2015年或最新可获得的数据。图表通过颜色编码的热力图形式，展示了不同行业在**资产**（Assets）、**使用**（Usage）和**劳动力**（Labor）三个维度上的数字化水平。\n\n---\n\n### 图表标题：\n**The construction industry is among the least digitized.**  \n（建筑行业是数字化程度最低的行业之一）\n\n---\n\n### 图表结构：\n\n- **左侧列**：列出各个行业（Sector），共20个，从ICT（信息与通信技术）到农业与狩猎。\n- **顶部行**：分为三大类，每类下有若干子项：\n  1. **Assets（资产）**\n     - Overall digitization（整体数字化）\n     - Digital spending（数字支出）\n     - Digital asset stock（数字资产存量）\n  2. **Usage（使用）**\n     - Transactions（交易）\n     - Interactions（互动）\n     - Business processes（业务流程）\n  3. **Labor（劳动力）**\n     - Market making（市场创造）\n     - Digital spending on workers（对员工的数字支出）\n     - Digital capital deepening（数字资本深化）\n     - Digitization of work（工作数字化）\n\n- **颜色编码**：\n  - 红色 → 数字化程度**较低**\n  - 橙色 → 中等偏低\n  - 黄色 → 中等\n  - 绿色 → 数字化程度**较高**\n\n- **蓝色圆点**：表示该行业在相对未数字化的行业中，属于“**数字化领先者**”（Digital leaders within relatively undigitized sectors）。\n\n---\n\n### 核心观察与分析：\n\n#### 1. **建筑行业（Construction）的数字化水平极低**\n- 在所有行业中，**建筑行业**（Construction）在几乎所有指标上都呈现**红色或橙色**，表明其数字化程度非常低。\n- 特别是在：\n  - **数字资产存量**（Digital asset stock）\n  - **交易**（Transactions）\n  - **业务流程**（Business processes）\n  - **工作数字化**（Digitization of work）\n  这些方面几乎都是红色，说明其在技术和流程层面的数字化应用严重滞后。\n\n#### 2. **其他低数字化行业**\n- 与建筑行业类似，以下行业也表现出较低的数字化水平：\n  - **农业与狩猎**（Agriculture and hunting）：几乎全红\n  - **采矿业**（Mining）：多数为红色或橙色\n  - **政府**（Government）：部分红色，但某些领域如“数字支出”有绿色表现\n  - **个人与本地服务**（Personal and local services）：整体偏红\n\n#### 3. **高数字化行业**\n- **ICT（信息与通信技术）**：全绿，是数字化程度最高的行业。\n- **媒体**（Media）：大部分为绿色，仅“互动”略低。\n- **专业服务**（Professional services）：多数绿色，但在“互动”和“市场创造”上稍弱。\n- **金融与保险**（Finance and insurance）：整体绿色，尤其在“业务流程”和“数字资本深化”方面表现突出。\n\n#### 4. **特殊亮点：蓝色圆点行业**\n- **房地产**（Real estate）\n- **运输与仓储**（Transportation and warehousing）\n- **教育**（Education）\n- **零售贸易**（Retail trade）\n- **政府**（Government）\n- **医疗保健**（Healthcare）\n- **酒店业**（Hospitality）\n\n这些行业虽然整体数字化程度不高（多为红色/橙色），但**在某些方面有领先表现**，被标记为“数字化领先者”，意味着它们在特定领域（如数字支出、数字资本深化）已有突破。\n\n---\n\n### 结论：\n\n这张图清晰地揭示了各行业的数字化发展现状，其中：\n- **建筑行业**是**数字化程度最低的行业之一**，在资产、使用和劳动力三个方面均处于落后地位。\n- 相比之下，**ICT、金融、媒体等行业**已经实现了高度数字化。\n- 尽管一些传统行业（如教育、政府、医疗）整体数字化水平不高，但在某些细分领域已展现出领先趋势。\n\n该图强调了**建筑业亟需推动数字化转型**，以提升效率、降低成本并增强竞争力。",
+        "metadata": {
+            "filename": "广联达-深度报告造价云转型逐步迎来收获期施工设计进一步打开成长空间-2021101919页.pdf",
+            "page": 10,
+            "type": "image",
+            "img_path": "images/b16d5a65a25fc3e4a6c37aeed66e9f1d27af83396ceb69c3587eb29d47874912.jpg",
+            "table_body": "None"
+        }
+    },
+    {
+        "page_content": "",
+        "metadata": {
+            "filename": "广联达-深度报告造价云转型逐步迎来收获期施工设计进一步打开成长空间-2021101919页.pdf",
+            "page": 10,
+            "type": "text",
+            "img_path": "None",
+            "table_body": "None"
+        }
+    }
+]

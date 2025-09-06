@@ -1,0 +1,32 @@
+[
+    {
+        "page_content": "标题为“图11 2010-2020 年中国建筑业总产值及GDP占比”的图表是一张结合了柱状图和折线图的复合统计图，用于展示中国建筑业在2010年至2020年期间的总产值变化趋势以及其占国内生产总值（GDP）比重的变化情况。\n\n### 图表构成：\n- **横轴（X轴）**：表示时间，从2010年12月到2020年12月，以每年12月为时间节点，共11个数据点。\n- **纵轴（Y轴）**：包含两个刻度：\n  - 左侧纵轴（对应橙色柱状图）：表示建筑业总产值，单位为亿元人民币，范围从0到300,000亿元。\n  - 右侧纵轴（对应黄色折线图）：表示建筑业总产值占GDP的百分比，范围从21%到28%。\n\n### 数据内容：\n\n#### 1. 建筑业总产值（橙色柱状图）\n- 2010年：约100,000亿元\n- 2011年：约120,000亿元\n- 2012年：约140,000亿元\n- 2013年：约160,000亿元\n- 2014年：约180,000亿元\n- 2015年：约190,000亿元\n- 2016年：约200,000亿元\n- 2017年：约210,000亿元\n- 2018年：约220,000亿元\n- 2019年：约250,000亿元\n- 2020年：约260,000亿元\n\n总体趋势：建筑业总产值呈现持续上升趋势，尽管在2015年后增速有所放缓，但整体仍保持增长。2014年达到阶段性高峰后略有回落，随后在2019年和2020年再次显著提升。\n\n#### 2. GDP占比（黄色折线图）\n- 2010年：约23%\n- 2011年：约24%\n- 2012年：约24.5%\n- 2013年：约25%\n- 2014年：约27%（峰值）\n- 2015年：约26%\n- 2016年：约25.5%\n- 2017年：约25%\n- 2018年：约24.5%\n- 2019年：约25%\n- 2020年：约26%\n\n趋势分析：\n- 建筑业占GDP比重在2010年至2014年间稳步上升，于2014年达到最高点27%。\n- 之后出现波动性下降，2018年降至最低点约24.5%，但在2019年和2020年回升至25%以上，2020年回升至26%左右。\n\n### 综合解读：\n该图反映了中国建筑业在过去十年中的发展态势：\n- **总产值持续增长**，表明建筑业在中国经济中仍具有重要地位，并随着城镇化、基础设施建设和房地产投资推动而扩张。\n- **GDP占比先升后降再回升**，说明虽然建筑业对经济增长的贡献一度达到顶峰（2014年），但近年来受经济结构转型、房地产调控等因素影响，其相对权重有所下降，但2020年又出现反弹，可能与疫情后基建刺激政策有关。\n\n此图可用于分析中国建筑业的宏观经济地位及其发展趋势，是研究中国经济结构变化的重要参考数据之一。",
+        "metadata": {
+            "filename": "广联达-公司深度报告开启新增长极-22022246页.pdf",
+            "page": 15,
+            "type": "image",
+            "img_path": "images/ac27054bab84b405fdb6e64400cede912ac43584683513fe36408952406def7c.jpg",
+            "table_body": "None"
+        }
+    },
+    {
+        "page_content": "图12 各行业信息化程度对比是一张热力图（Heatmap），用于展示不同行业在多个维度上的信息化发展水平。该图表通过颜色深浅来表示各行业在不同方面的信息化程度，颜色越绿表示信息化程度越高，颜色越红则表示信息化程度越低。\n\n### 图表结构\n\n- **横轴（列）**：分为三大类，共七个维度：\n  1. **Assets（资产）**\n     - Digital capital (数字资本)\n     - Digital stock (数字库存)\n  2. **Usage（使用）**\n     - Transactions (交易)\n     - Interactions (互动)\n     - Business processes (业务流程)\n  3. **Labor（劳动力）**\n     - Digital workers or workers (数字劳动者或劳动者)\n     - Digital screening (数字筛选)\n     - Digitization of work (工作数字化)\n\n- **纵轴（行）**：列出多个经济部门或行业，从上到下依次为：\n  - ICT（信息与通信技术）\n  - Media（媒体）\n  - Professional services（专业服务）\n  - Finance and insurance（金融与保险）\n  - Wholesale trade（批发贸易）\n  - Advanced manufacturing（先进制造）\n  - Oil and gas（石油与天然气）\n  - Utilities（公用事业）\n  - Chemicals and pharmaceuticals（化工与制药）\n  - Basic goods manufacturing（基础商品制造）\n  - Mining（采矿）\n  - Real estate（房地产）\n  - Transportation and warehousing（运输与仓储）\n  - Education（教育）\n  - Retail trade（零售贸易）\n  - Entertainment and recreation（娱乐与休闲）\n  - Personal and local services（个人与本地服务）\n  - Government（政府）\n  - Healthcare（医疗保健）\n  - Hospitality（酒店业）\n  - Construction（建筑业）\n  - Agriculture and hunting（农业与狩猎）\n\n### 颜色编码说明\n\n- **绿色**：表示该行业中某项指标的信息化程度高。\n- **黄色**：表示中等水平。\n- **橙色/红色**：表示信息化程度较低。\n\n此外，部分行业在“Labor”类别下的“Digital workers or workers”一栏中标有蓝色圆点（●），这可能表示这些行业在数字劳动力方面存在特殊性或数据缺失。\n\n---\n\n### 主要观察结果\n\n1. **ICT行业**：\n   - 在所有维度上均呈现深绿色，表明其在数字资本、数字库存、交易、互动、业务流程、数字劳动者和工作数字化等方面都处于高度信息化状态，是信息化程度最高的行业。\n\n2. **Media、Professional services、Finance and insurance**：\n   - 这些行业在大多数维度上也表现出较高的信息化水平，尤其是在数字资本、交易、业务流程和数字劳动者方面，颜色多为绿色或黄绿色。\n\n3. **Advanced manufacturing、Oil and gas、Chemicals and pharmaceuticals**：\n   - 在“Business processes”和“Digital capital”方面表现较好，但在“Digital workers”和“Digitization of work”方面相对薄弱，显示出虽然生产过程较自动化，但员工数字化能力仍有提升空间。\n\n4. **Mining、Transportation and warehousing、Construction、Agriculture and hunting**：\n   - 多数维度呈橙色或红色，表明这些传统行业的信息化程度整体偏低，尤其在“Digital workers”、“Digitization of work”和“Interactions”方面较为落后。\n\n5. **Healthcare、Government、Education、Hospitality**：\n   - 在“Business processes”和“Transactions”方面有一定信息化水平，但在“Digital workers”和“Work digitization”方面仍显不足，反映出公共服务和人力密集型行业在数字化转型中的挑战。\n\n6. **Retail trade、Entertainment and recreation、Personal and local services**：\n   - 虽然在“Transactions”和“Interactions”方面表现良好（如电商、在线服务），但在“Digital capital”和“Business processes”方面仍需加强。\n\n7. **Blue dots（蓝点）**：\n   - 出现在以下行业：“Real estate”、“Transportation and warehousing”、“Education”、“Personal and local services”、“Government”。这些可能是研究中特别标注的数据点，提示这些领域在数字劳动力方面可能存在结构性问题或数据局限。\n\n---\n\n### 总结\n\n这张图清晰地展示了不同行业在信息化进程中的差异。以ICT为代表的高科技行业信息化程度最高，而农业、建筑、采矿等传统行业则相对滞后。同时，许多行业在“数字劳动者”和“工作数字化”方面存在短板，说明未来数字化转型的重点应放在提升人力资源的数字化能力和推动工作流程的全面数字化上。",
+        "metadata": {
+            "filename": "广联达-公司深度报告开启新增长极-22022246页.pdf",
+            "page": 15,
+            "type": "image",
+            "img_path": "images/bd34fd1f93db0e7a9b779f6337f92ba4680da34073050a8bb47a7383b0828ad7.jpg",
+            "table_body": "None"
+        }
+    },
+    {
+        "page_content": "美国在BIM 研究与应用领域至今都走在世界前列，美国工程建筑行业采用BIM 的比例从 2007 年的 $2 8 \\%$ 增长至 2012年的 $7 1 \\%$ 。目前，美国大多数建筑项目已经开始全面应用BIM，各种BIM协会也出台了各项BIM标准。欧洲主要以英国为代表，英国政府要求所有政府部门无论工程规模大小，必须使用BIM技术。亚洲的BIM 领头羊为韩国，其在BIM 技术的运用上十分领先。相比上述发达国家，BIM在中国施工企业的应用刚刚起步，但正处于快速发展阶段，中国市场正在开始体验BIM带来的效益，包括降低成本、提高交付效率、增加可持续性等，未来中国在BIM应用方面的发展潜力巨大。\n2021年上半年，国家统筹疫情防控和经济社会发展的成果得到持续拓展和巩固，经济运行持续稳定恢复，稳中加固，稳中向好。根据国家统计局上半年数据，信息传输、软件和信息技术服务业增加值同比增长 $2 0 . 3 \\%$ ，两年复合增长 $1 7 . 3 \\%$ ，建筑业实现总产值11.98 万亿元，同比增长 $1 8 . 8 \\%$ ，两年复合增长 $8 . 6 \\%$ ，均位于高景气度区间运行。2021年上半年，全国建筑业企业签订合同总额 443614.48 亿元,同比增长 $1 3 . 4 9 \\%$ ,其中新签合同额144134.03亿元,同比增长 $1 4 . 4 0 \\%$ 。2021年是“十四五”规划的开局之年，国家提出了“两新一重”的基础设施建设方向和“3060”的“双碳”目标。新型城镇化建设和新型基础设施的建设离不开5G、人工智能、大数据等技术，技术与产业深度融合后的 BIM、CIM 和产业互联网等将持续为建筑业赋能。\n但在我国建筑业快速发展的背后仍然是高耗能和低效率，根据麦肯锡统计数据，我国建筑业信息化程度仅高于农业，排在全行业倒数第二。体量巨大的建筑产业亟需转型和变革，而互联网、数字经济、前沿技术等时代机遇预示着巨大的增值空间和市场蓝海。我国每年新开工项目保持在60 万个左右，以每个项目BIM 技术投入10 万元估算，潜在市场规模超过五百亿。第三方预测，全球BIM 市场规模预估将在2022 年增长到 115.4亿美元，2015-2022 年间，亚太地区将是 BIM 市场增长最快的区域，而工程施工行业将成为BIM最主要的应用领域，复合增长率预估可达 $2 2 . 7 \\%$ 。\n",
+        "metadata": {
+            "filename": "广联达-公司深度报告开启新增长极-22022246页.pdf",
+            "page": 15,
+            "type": "text",
+            "img_path": "None",
+            "table_body": "None"
+        }
+    }
+]

@@ -1,0 +1,44 @@
+{
+    "query": "根据华金证券对伊利股份的深度分析报告，伊利股份在2019年的全球乳企排名中位列第8名，请问伊利股份在2019年的销售额是多少？",
+    "answer": "根据《公司研究伊利股份-公司首次覆盖报告护城河稳固平台化发展未来可期-2020042722页.pdf》第3页的表1，伊利股份在2019年全球乳业排名中位列第8位，其2019年营业额为112亿美元。该数据与报告中提到的“2018年乳制品营业额为112亿美元（约95亿欧元）”基本一致，表明其在2019年维持了相近的营收规模。作为唯一进入全球前十的中国乳企之一，伊利的全球排名较2018年上升一位，展现出稳健的市场地位和增长势头。",
+    "similar_chunks": [
+        {
+            "page_content": "这张表格的标题为“**表1：伊利股份为 2019 年全球乳业第八强**”，主要展示了2019年全球前十大乳制品企业的排名情况，涵盖企业的名称、总部所在地、2019年和2018年的全球排名，以及2019年的营业额（以亿美元为单位）。以下是对表格内容的详细描述：\n\n---\n\n### **表格结构与列说明**：\n- **公司**：列出全球主要乳制品企业。\n- **总部所在地**：各公司的注册或运营总部所在国家（或地区）。\n- **2019 年排名**：根据2019年营业额，企业在全球乳业中的排名。\n- **2018 年排名**：企业在2018年的全球排名，用于对比排名变化。\n- **营业额（亿美元）**：各公司在2019年的营业收入，单位为亿美元。\n\n---\n\n### **具体数据内容**：",
+            "metadata": {
+                "type": "table",
+                "img_path": "images/69cc57431e465187842a474477c532a3547e96e887eb669f0a6d3aefca3df7d7.jpg",
+                "start_index": 0,
+                "page": 3,
+                "table_body": "<table><tr><td>公司</td><td>总部所在地</td><td>2019 年排名</td><td>2018 年排名</td><td>营业额（亿美元）</td></tr><tr><td>雀巢</td><td>瑞士</td><td>1</td><td>1</td><td>243</td></tr><tr><td>兰特黎斯</td><td>法国</td><td>2</td><td>2</td><td>208</td></tr><tr><td>达能</td><td>法国</td><td>3</td><td>3</td><td>180</td></tr><tr><td>恒天然</td><td>新西兰</td><td>4</td><td>5</td><td>143</td></tr><tr><td>菲仕兰</td><td>荷兰</td><td>5</td><td>6</td><td>138</td></tr><tr><td>美国奶农</td><td>美国</td><td>6</td><td>4</td><td>136</td></tr><tr><td>爱氏晨曦</td><td>丹麦/瑞典</td><td>7</td><td>7</td><td>124</td></tr><tr><td>伊利</td><td>中国</td><td>8</td><td>9</td><td>112</td></tr><tr><td>萨普托</td><td>加拿大</td><td>9</td><td>8</td><td>110</td></tr><tr><td>蒙牛</td><td>中国</td><td>10</td><td>10</td><td>103</td></tr></table>",
+                "filename": "公司研究伊利股份-公司首次覆盖报告护城河稳固平台化发展未来可期-2020042722页.pdf",
+                "pk": "d7c9bcb3-d9b4-492c-a0c1-f7d3063cdeeb"
+            }
+        },
+        {
+            "page_content": "---\n\n### 三、关键信息解读\n\n1. **全球乳企排名格局**：\n   - 前三大乳制品企业为 **雀巢（Nestlé）**、**拉克塔利斯（Lactalis）** 和 **达能（Danone）**，均为欧美企业。\n   - 雀巢以243亿美元的乳制品营业额位居全球第一。\n\n2. **中国乳企表现突出**：\n   - **伊利（Yili）** 在2019年排名全球第8位，较2018年的第9位上升一位，实现小幅跃升（标注“▲”表示排名上升）。\n   - 伊利2018年乳制品营业额为 **112亿美元（约95亿欧元）**，是唯一进入全球前十的中国乳企之一。\n   - **蒙牛（Mengniu）** 排名第10位，营业额为103亿美元，略低于伊利。\n\n3. **排名变动情况**：\n   - Fonterra（恒天然）从2018年第5位上升至2019年第4位（▲），营业额143亿美元。\n   - FrieslandCampina（菲仕兰）从第6位升至第5位（▲），营业额138亿美元。\n   - Dairy Farmers of America 从2018年第4位下降至2019年第6位，出现下滑。\n   - Saputo 从第8位降至第9位。",
+            "metadata": {
+                "type": "table",
+                "img_path": "images/0dcdd2edac79fe56dfcdbaa7187429a750c004bedb5ff89d59489262a080113a.jpg",
+                "start_index": 1569,
+                "page": 4,
+                "table_body": "<table><tr><td rowspan=\"2\">2019 2018 Company</td><td rowspan=\"2\"></td><td rowspan=\"2\"></td><td rowspan=\"2\">Country o eadqguarters</td><td colspan=\"2\">Dairy turnover,2018*</td></tr><tr><td>USD billiionn</td><td>EUR bilioon</td></tr><tr><td>1</td><td>1 Nestle</td><td></td><td>Switzerland</td><td>24.3</td><td>20.6</td></tr><tr><td>2</td><td></td><td>2 Lactalis</td><td>France</td><td>20.8</td><td>17.6</td></tr><tr><td>3</td><td></td><td>3 Danone</td><td>France</td><td>18.0</td><td>15.2</td></tr><tr><td>4 ▲</td><td></td><td>5 Fonterra</td><td>New Zealand</td><td>14.3</td><td>12.1</td></tr><tr><td>5 ▲</td><td></td><td>6 FrieslandCampina</td><td>Netherlands</td><td>13.8</td><td>11.6</td></tr><tr><td>6</td><td>4</td><td>Dairy Farmers of America</td><td>US</td><td>13.6</td><td>11.5</td></tr><tr><td>7</td><td>7</td><td>Arla Foods</td><td>Denmark/Sweden</td><td>12.4</td><td>10.5</td></tr><tr><td>8 ▲</td><td>9 Yii</td><td></td><td>China</td><td>11.2</td><td>9.5</td></tr><tr><td>9</td><td></td><td>8 Saputo</td><td>Canada</td><td>11.0</td><td>9.3</td></tr><tr><td>10</td><td>10</td><td>Mengniu</td><td>China</td><td>10.3</td><td>8.7</td></tr></table>",
+                "filename": "伊利股份-大象起舞龙头远航-2020072627页.pdf",
+                "pk": "0701290f-7722-451c-8631-ebc628218ca4"
+            }
+        },
+        {
+            "page_content": "图10: 中国人均乳制品消费金额仍较低.. ….  \n图11： 2019 年中国常温奶CR2约 $6 5 \\%$ ……   \n图12： 2020 年4月8日生鲜乳价格同比增长 $2 . 3 \\%$ …… ….9  \n图13： 2019H1常温液态乳品市场渗透率达 $8 3 . 9 \\%$ … ….10  \n图14： 2015年以来伊利股份营收拉大与蒙牛乳业的差距， …. 10  \n图15： 伊利股份应收款和应收款占比均小于蒙牛乳业. ….10  \n图16: 2018 年公司直控村级网点同比增 $1 4 . 7 \\%$ : ….11  \n图17： 2014年以来伊利股份电商业务收入快速增长.. ….11  \n图18: 伊利股份产品线较为齐全. … ….12  \n图19: 2013年以来产品结构优化助力营收增长.  \n图20： 2016年以来伊利研发支出占营收比例大于蒙牛和光明. …………… .13  \n图21： 2016年以来伊利股份研发费用增速较快. … 13  \n图22： 伊利股份每年积极推出新产品 13  \n图23： 安慕希密集推出新品. ..14  \n图24： 2019 年纯甄推出 3 款新口味产品…14  \n图25： 莫斯利安推出新品速度较慢. 1 5  \n图26： 金典推出新品、升级包装.  \n图27：伊利使用线上线下和跨界合作方式进行营销.  \n图28：2016年以来伊利股份品类多元化发展， 17  \n表1：伊利股份为 2019 年全球乳业第八强.  \n表2：2019 年伊利股份推出限制性股票激励计划.…. ……5",
+            "metadata": {
+                "type": "text",
+                "img_path": "None",
+                "start_index": 673,
+                "page": 1,
+                "table_body": "None",
+                "filename": "公司研究伊利股份-公司首次覆盖报告护城河稳固平台化发展未来可期-2020042722页.pdf",
+                "pk": "4d259a95-f86b-4c1f-a1ad-55dc1abc2875"
+            }
+        }
+    ],
+    "filename": "公司研究伊利股份-公司首次覆盖报告护城河稳固平台化发展未来可期-2020042722页.pdf",
+    "page": 3
+}

@@ -1,0 +1,44 @@
+{
+    "query": "艾力斯公司关于伏美替尼一线治疗EGFR突变NSCLC的PFS数据对比分析如何？",
+    "answer": "根据《艾力斯-公司深度报告商业化成绩显著产品矩阵持续拓宽-25070718页.pdf》第7页内容，伏美替尼在一线治疗EGFR敏感突变非小细胞肺癌（NSCLC）中展现出显著的PFS优势。在FURLONG研究中，针对中枢神经系统（CNS）的cFAS集，伏美替尼组的中位无进展生存期（PFS）达到20.8个月，而对照组吉非替尼仅为9.8个月，风险比（HR）为0.4，表明伏美替尼在脑转移患者中具有更强的疗效和更低的疾病进展风险。该数据体现了伏美替尼在一线治疗中的临床优势，尤其是在控制脑转移方面表现突出。",
+    "similar_chunks": [
+        {
+            "page_content": "# 2.2. 伏美替尼脑转强效，III 期试验 IND 已获得批准\n根据艾力斯 2024 年年报，约 $2 5 \\% \\mathrm { E G F R }$ 突变 NSCLC 患者在初诊时发现具有脑部转移，在 3 年的随访中该比例可增加至 $50 \\%$ ，对患者的生存时间和生活质量造成了较大挑战。在临床前研究中，伏美替尼原型药物及其主要活性代谢产物均能穿透血脑屏障。\n伏美替尼在 FURLONG 研究中针对 CNS 的 cFAS 集取得了 $2 0 . 8 \\mathrm { m }$ 的PFS 数据（对照组吉非替尼为 $9 . 8 \\mathrm { m } \\mathrm { . }$ ）， $\\mathrm { H R } { = } 0 . 4$ 。2024 年 7 月伏美替尼用于治疗 EGFR 敏感突变阳性的非鳞 NSCLC 伴脑转移患者的 III 期临床试验IND 获得批准。\n# 2.3. 术后辅助治疗 III 注册临床研究进展顺利",
+            "metadata": {
+                "page": 7,
+                "img_path": "None",
+                "start_index": 0,
+                "pk": "c06a4e9e-1098-4c0e-bb90-b2c1220249a1",
+                "filename": "艾力斯-公司深度报告商业化成绩显著产品矩阵持续拓宽-25070718页.pdf",
+                "type": "text",
+                "table_body": "None"
+            }
+        },
+        {
+            "page_content": "公司于 2023 年WCLC 上更新了伏美替尼治疗 EGFR 20 外显子插入突变晚期 NSCLC 的 Ib 期 FAVOUR 研究数据，IRC 评估伏美替尼初治 $2 4 0 \\mathrm { m g }$ 组/经治 $2 4 0 \\mathrm { m g }$ 组/经治 $1 6 0 \\mathrm { m g }$ 组的确证ORR分别为 $7 8 . 6 \\% / 4 6 . 2 \\% / 3 8 . 5 \\%$ ；DoR 则为 $1 5 . 2 / 1 3 . 1 / 9 . 7 $ 个月。\n# 2.6. 积极开展伏美替尼联用进一步提升疗效 \n根据艾力斯公告，公司积极探索以伏美替尼为骨干药物的联合用药来应对耐药以期进一步提高治疗效果，公司已开展多项联合用药的临床研究，如联合 SHP2 抑制剂、安罗替尼、口服小分子 PD-L1 抑制剂等。其中有一些数据已经成熟并公布——2024ELCC 公布伏美替尼联合安罗替尼一线治疗 EGFR21 号外显子 L858R 突变阳性 NSCLC 数据，针对 EGFR21 号外显子 L858R 突变的患者，EGFR-TKI 的治疗效果普遍不佳，而伏美替尼联合安罗替尼展现出了良好的治疗潜力。",
+            "metadata": {
+                "page": 9,
+                "img_path": "None",
+                "start_index": 0,
+                "pk": "e917a524-9ada-4936-b114-f2732da1ed92",
+                "filename": "艾力斯-公司深度报告商业化成绩显著产品矩阵持续拓宽-25070718页.pdf",
+                "type": "text",
+                "table_body": "None"
+            }
+        },
+        {
+            "page_content": "该表格标题为“**图1: 艾力斯在研管线**”，展示了艾力斯公司核心在研药物伏美替尼（Furmonertinib）的研发进展及其在不同适应症中的临床开发情况。以下是对此表格内容的详细描述与分析：\n\n---\n\n### 一、整体结构\n\n表格主要围绕艾力斯的核心药物 **伏美替尼**（Furmonertinib）展开，其作用靶点为 **EGFR**（表皮生长因子受体），是一款用于治疗非小细胞肺癌（NSCLC）的第三代EGFR酪氨酸激酶抑制剂（TKI）。\n\n表格横向列出了多个维度：\n- **药品名称**\n- **靶点**\n- **适应症**\n- **研发阶段（按地区划分）**：包括“临床前研究”、“临床1期”、“临床Ⅱ期”、“临床Ⅲ期”、“NDA申请”等\n- **备注**\n\n纵向按不同适应症列出伏美替尼在各类肺癌治疗中的研发路径和进展。\n\n---\n\n### 二、核心药物：伏美替尼（Furmonertinib）\n\n| 药品 | 靶点 |\n|------|------|\n| 伏美替尼 | EGFR |\n\n伏美替尼是艾力斯自主研发的第三代EGFR-TKI，具有高选择性和强效抑制活性，尤其对EGFR T790M突变和敏感突变（如19外显子缺失、L858R）有效。\n\n---\n\n### 三、各适应症及研发进展\n\n以下为伏美替尼在不同适应症下的研发状态，按行逐一解析：",
+            "metadata": {
+                "page": 2,
+                "img_path": "images/14847cbd1b1709dae676505da593cca9a73e9a04f5fcb780e9ace4407c56346a.jpg",
+                "start_index": 0,
+                "pk": "0740224d-f2d0-45ce-b510-1f74f99d1f09",
+                "filename": "艾力斯-公司深度报告商业化成绩显著产品矩阵持续拓宽-25070718页.pdf",
+                "type": "table",
+                "table_body": "<table><tr><td>药品</td><td>靶点</td><td></td><td>适应症</td><td>临床开展 临床前研究 ND请</td><td>临床1期 临床目期</td><td>临床川期 NDA申请 合作伙伴</td><td></td><td>备注</td></tr><tr><td rowspan=\"10\">伏美替尼</td><td rowspan=\"10\">EGFR</td><td>T790M突支非小细胞肺癌（二线）治疗</td><td>中国</td><td></td><td></td><td></td><td>已获批</td><td></td></tr><tr><td>EGFR敏感突变非小细胞肺癌（一线）治疗</td><td></td><td>中国</td><td></td><td></td><td></td><td>已获批</td></tr><tr><td>EGFR敏感突变非小细胞肺癌辅助治疗</td><td>中国</td><td></td><td></td><td></td><td></td><td>Ⅲ期</td></tr><tr><td>EGFR20外显子插入突变的NSCLC（二线）治疗</td><td>中国</td><td></td><td></td><td></td><td></td><td>Ⅱ期（注册临床）</td></tr><tr><td></td><td>EGFR20外显子插入突变的NSCLC（一线）治疗</td><td>全球</td><td></td><td></td><td>ARIVENTⅢ期</td><td></td></tr><tr><td>EGFR敏感突变阳性的非鳞NSCLC伴脑转移</td><td></td><td>中国</td><td></td><td></td><td></td><td>Ⅲ期</td></tr><tr><td></td><td>EGFR PAC突变或EGFR LS61Q突变的NSCLC</td><td>中国</td><td></td><td></td><td></td><td>Ⅲ期</td></tr><tr><td></td><td>非经典EGFR突变非小细胞肺癌的辅助治疗</td><td>中国</td><td></td><td></td><td></td><td>Ⅲ期</td></tr><tr><td>EGFR或HER2激活突变的非小细胞肺癌</td><td></td><td>全球</td><td></td><td></td><td>AARRVENT D期</td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td rowspan=\"3\"></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table>"
+            }
+        }
+    ],
+    "filename": "艾力斯-公司深度报告商业化成绩显著产品矩阵持续拓宽-25070718页.pdf",
+    "page": 7
+}

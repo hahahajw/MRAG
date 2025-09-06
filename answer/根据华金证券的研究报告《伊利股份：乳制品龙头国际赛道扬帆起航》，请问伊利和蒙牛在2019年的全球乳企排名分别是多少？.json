@@ -1,0 +1,44 @@
+{
+    "query": "根据华金证券的研究报告《伊利股份：乳制品龙头国际赛道扬帆起航》，请问伊利和蒙牛在2019年的全球乳企排名分别是多少？",
+    "answer": "根据华金证券的研究报告《公司研究伊利股份-乳制品龙头国际赛道扬帆起航-2020031831页.pdf》第14页的表4，2019年伊利和蒙牛的全球乳企排名分别为：伊利位列第8名，蒙牛排名第10名。报告指出，伊利从2010年的第16名稳步上升至2019年的第8名，持续提升全球地位，而蒙牛则从2010年的第15名波动后稳定在第10名。",
+    "similar_chunks": [
+        {
+            "page_content": "**表4：2010-2019伊利和蒙牛世界乳企排名变化** 展示了中国两大乳制品龙头企业——**伊利**和**蒙牛**在2010年至2019年期间，于全球乳品企业中的排名变化情况。该表格通过逐年对比的方式，反映了两家公司在国际乳品行业中的地位演变。\n\n以下是表格内容的详细描述：\n\n| 年份 | 蒙牛排名 | 伊利排名 |\n|------|----------|----------|\n| 2010 | 15       | 16       |\n| 2011 | 18       | 19       |\n| 2012 | 16       | 15       |\n| 2013 | 15       | 12       |\n| 2014 | 14       | 10       |\n| 2015 | 11       | 10       |\n| 2016 | 11       | 8        |\n| 2017 | 10       | 8        |\n| 2018 | 10       | 9        |\n| 2019 | 10       | 8        |\n\n### 综合分析与趋势解读：\n\n1. **整体趋势：**\n   - **伊利**的全球排名呈现**持续上升趋势**，从2010年的第16位稳步提升至2019年的第8位，最终稳居全球前十。\n   - **蒙牛**的排名波动较大，整体先下降后回升再趋于稳定，从2010年第15位一度下滑至2011年的第18位，之后逐步回升并从2017年起稳定在第10位。",
+            "metadata": {
+                "pk": "63dc8631-56ad-4326-8304-473e98ef472e",
+                "img_path": "images/1bfd486e9f6d9a6c491e89a819ca905a8efbc61f4857f74667b5146408bd115c.jpg",
+                "type": "table",
+                "filename": "公司研究伊利股份-乳制品龙头国际赛道扬帆起航-2020031831页.pdf",
+                "page": 14,
+                "table_body": "<table><tr><td>年份</td><td>蒙牛排名</td><td>伊利排名</td></tr><tr><td>2010</td><td>15</td><td>16</td></tr><tr><td>2011</td><td>18</td><td>19</td></tr><tr><td>2012</td><td>16</td><td>15</td></tr><tr><td>2013</td><td>15</td><td>12</td></tr><tr><td>2014</td><td>14</td><td>10</td></tr><tr><td>2015</td><td>11</td><td>10</td></tr><tr><td>2016</td><td>11</td><td>8</td></tr><tr><td>2017</td><td>10</td><td>8</td></tr><tr><td>2018</td><td>10</td><td>9</td></tr><tr><td>2019</td><td>10</td><td>8</td></tr></table>",
+                "start_index": 0
+            }
+        },
+        {
+            "page_content": "> 2019年，伊利上升一位至**第8名**，继续保持领先于蒙牛。恒天然上升至第4，美国奶农降至第6，达能保持第3。蒙牛则下降一位至第10。\n\n---\n\n#### **2020年排名情况：**\n1. 雀巢\n2. 兰特黎斯\n3. 美国奶农\n4. 达能\n5. **伊利**\n6. 恒天然\n7. 菲仕兰\n8. 蒙牛\n9. 爱氏晨曦\n10. 萨普托\n\n> 到2020年，伊利实现显著跃升，进入全球前五，位列**第5名**，成为中国唯一进入全球前五的乳制品企业。美国奶农升至第3，达能降至第4，恒天然降至第6，蒙牛跌出前五，排在第8。\n\n---\n\n### **关键趋势与分析**\n\n1. **伊利持续上升**：\n   - 从2018年的第9名 → 2019年第8名 → 2020年第5名，三年间提升了4个名次。\n   - 显示出伊利在全球乳制品行业中的竞争力不断增强，尤其是在国际化布局、产品创新和市场份额拓展方面取得显著成效。\n\n2. **蒙牛排名波动下降**：\n   - 2018年位列第10，2019年仍为第10，2020年虽升至第8，但被伊利大幅超越。\n   - 相较于伊利的快速上升，蒙牛在全球排名中增长乏力。\n\n3. **欧美企业主导前列**：\n   - 雀巢连续三年稳居第一，兰特黎斯保持第二，显示欧美乳企仍占据行业主导地位。\n   - 美国奶农在2020年跃升至第3，反映出北美乳制品产业的整合与规模优势。",
+            "metadata": {
+                "pk": "b289dfa8-77a1-4dec-8d64-12b6a378aa6f",
+                "img_path": "images/48c2250589639f940b6446ef88b184db6276889178b6a615d9bae7d2067f16f6.jpg",
+                "type": "table",
+                "filename": "伊利股份多元优势铸造乳企龙头未来战略目标平稳推进42页.pdf",
+                "page": 33,
+                "table_body": "<table><tr><td>国际排名</td><td>2018</td><td>2019</td><td>2020</td></tr><tr><td>1</td><td>雀巢</td><td>雀巢</td><td>雀巢</td></tr><tr><td>2</td><td>兰特黎斯</td><td>兰特黎斯</td><td>兰特黎斯</td></tr><tr><td>3</td><td>达能</td><td>达能</td><td>美国奶农</td></tr><tr><td>4</td><td>美国奶农</td><td>恒天然</td><td>达能</td></tr><tr><td>5</td><td>恒天然</td><td>菲仕兰</td><td>伊利</td></tr><tr><td>6</td><td>菲仕兰</td><td>美国奶农</td><td>恒天然</td></tr><tr><td>7</td><td>爱氏晨曦</td><td>爱氏晨曦</td><td>菲仕兰</td></tr><tr><td>8</td><td>萨普托</td><td>伊利</td><td>蒙牛</td></tr><tr><td>9</td><td>伊利</td><td>萨普托</td><td>爱氏晨曦</td></tr><tr><td>10</td><td>蒙牛</td><td>蒙牛</td><td>萨普托</td></tr></table>",
+                "start_index": 649
+            }
+        },
+        {
+            "page_content": "---\n\n### 三、关键信息解读\n\n1. **全球乳企排名格局**：\n   - 前三大乳制品企业为 **雀巢（Nestlé）**、**拉克塔利斯（Lactalis）** 和 **达能（Danone）**，均为欧美企业。\n   - 雀巢以243亿美元的乳制品营业额位居全球第一。\n\n2. **中国乳企表现突出**：\n   - **伊利（Yili）** 在2019年排名全球第8位，较2018年的第9位上升一位，实现小幅跃升（标注“▲”表示排名上升）。\n   - 伊利2018年乳制品营业额为 **112亿美元（约95亿欧元）**，是唯一进入全球前十的中国乳企之一。\n   - **蒙牛（Mengniu）** 排名第10位，营业额为103亿美元，略低于伊利。\n\n3. **排名变动情况**：\n   - Fonterra（恒天然）从2018年第5位上升至2019年第4位（▲），营业额143亿美元。\n   - FrieslandCampina（菲仕兰）从第6位升至第5位（▲），营业额138亿美元。\n   - Dairy Farmers of America 从2018年第4位下降至2019年第6位，出现下滑。\n   - Saputo 从第8位降至第9位。",
+            "metadata": {
+                "pk": "0701290f-7722-451c-8631-ebc628218ca4",
+                "img_path": "images/0dcdd2edac79fe56dfcdbaa7187429a750c004bedb5ff89d59489262a080113a.jpg",
+                "type": "table",
+                "filename": "伊利股份-大象起舞龙头远航-2020072627页.pdf",
+                "page": 4,
+                "table_body": "<table><tr><td rowspan=\"2\">2019 2018 Company</td><td rowspan=\"2\"></td><td rowspan=\"2\"></td><td rowspan=\"2\">Country o eadqguarters</td><td colspan=\"2\">Dairy turnover,2018*</td></tr><tr><td>USD billiionn</td><td>EUR bilioon</td></tr><tr><td>1</td><td>1 Nestle</td><td></td><td>Switzerland</td><td>24.3</td><td>20.6</td></tr><tr><td>2</td><td></td><td>2 Lactalis</td><td>France</td><td>20.8</td><td>17.6</td></tr><tr><td>3</td><td></td><td>3 Danone</td><td>France</td><td>18.0</td><td>15.2</td></tr><tr><td>4 ▲</td><td></td><td>5 Fonterra</td><td>New Zealand</td><td>14.3</td><td>12.1</td></tr><tr><td>5 ▲</td><td></td><td>6 FrieslandCampina</td><td>Netherlands</td><td>13.8</td><td>11.6</td></tr><tr><td>6</td><td>4</td><td>Dairy Farmers of America</td><td>US</td><td>13.6</td><td>11.5</td></tr><tr><td>7</td><td>7</td><td>Arla Foods</td><td>Denmark/Sweden</td><td>12.4</td><td>10.5</td></tr><tr><td>8 ▲</td><td>9 Yii</td><td></td><td>China</td><td>11.2</td><td>9.5</td></tr><tr><td>9</td><td></td><td>8 Saputo</td><td>Canada</td><td>11.0</td><td>9.3</td></tr><tr><td>10</td><td>10</td><td>Mengniu</td><td>China</td><td>10.3</td><td>8.7</td></tr></table>",
+                "start_index": 1569
+            }
+        }
+    ],
+    "filename": "公司研究伊利股份-乳制品龙头国际赛道扬帆起航-2020031831页.pdf",
+    "page": 14
+}

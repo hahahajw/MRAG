@@ -1,0 +1,44 @@
+{
+    "query": "根据《美团闪购伊利2022即时零售常温乳品白皮书》的内容，大品牌如何通过O2O即时零售实现增长？",
+    "answer": "根据《美团闪购伊利2022即时零售常温乳品白皮书》第26页内容，大品牌与O2O即时零售互为‘天选’，通过该渠道实现增长。由于消费者对产品品质的担忧，更倾向于在O2O即时零售平台购买大品牌产品，这为大品牌提供了竞争优势。同时，大品牌持续加码O2O即时零售渠道，走在渠道建设前列，借助平台的高效配送和广泛覆盖，提升市场渗透率和销售增长。此外，地方性厂商和网红品牌也借此破圈，但大品牌凭借其品牌信任度和供应链优势，在O2O渠道中占据主导地位，进一步巩固市场份额。",
+    "similar_chunks": [
+        {
+            "page_content": "# KANTAR WORLDPANEL A CTR SERVICE IN CHINA \n# 借力O2O即时零售解锁未来增长\nO2O即时零售常温乳品白皮书\n本报告由伊利、美团闪购和凯度消费者指数联合呈现",
+            "metadata": {
+                "pk": "1c9558e7-7fce-4f23-be6a-abada53019e5",
+                "type": "text",
+                "start_index": 0,
+                "page": 0,
+                "img_path": "None",
+                "table_body": "None",
+                "filename": "美团闪购伊利2022即时零售常温乳品白皮书42页.pdf"
+            }
+        },
+        {
+            "page_content": "# 大品牌走在渠道建设前列\n出于对产品品质的担忧，消费者在O2O即时零售更愿意购买大品牌的产品，地方性厂商和网红品牌也在借助O2O即时零售渠道破圈\n全国 | 常温乳品 | MAT22P9 | O2O即时零售 | 品牌渗透率及渗透率变化排名",
+            "metadata": {
+                "pk": "34a9f388-8d1f-4d34-890e-6ec0e13a4ef6",
+                "type": "text",
+                "start_index": 0,
+                "page": 27,
+                "img_path": "None",
+                "table_body": "None",
+                "filename": "美团闪购伊利2022即时零售常温乳品白皮书42页.pdf"
+            }
+        },
+        {
+            "page_content": "# #3: \n大品牌与O2O即时零售互为天选，大品牌持续加码O2O即时零售",
+            "metadata": {
+                "pk": "aae8556e-5ee0-413d-97bb-1e527e124d6c",
+                "type": "text",
+                "start_index": 0,
+                "page": 26,
+                "img_path": "None",
+                "table_body": "None",
+                "filename": "美团闪购伊利2022即时零售常温乳品白皮书42页.pdf"
+            }
+        }
+    ],
+    "filename": "美团闪购伊利2022即时零售常温乳品白皮书42页.pdf",
+    "page": 26
+}

@@ -1,0 +1,44 @@
+{
+    "query": "卫星化学的乙烷出口能力如何分布？",
+    "answer": "根据《卫星化学-公司研究报告-烯烃增量渐近高端新材料引领成长-25071434页.pdf》第12页，卫星化学通过其与Energy Transfer合资运营的Nederland终端进行乙烷出口，该终端年合同出口量为300万吨，设计能力可达400万吨，主要定向供应中国市场。该终端自2021年起开始出口300万吨，并持续至2025年，未来仍有100万吨的扩展潜力。目前美国仅有三处乙烷出口码头，其中Nederland终端是唯一服务于中国市场的设施，其余两处主要供应欧洲和中东企业，出口能力已接近极限。因此，卫星化学凭借自有港口和VLEC船只优势，保障了乙烷进口的稳定性与规模性。",
+    "similar_chunks": [
+        {
+            "page_content": "---\n\n#### 3. **Nederland 终端（ETP运营）**\n- **合同公司**：卫星化学（Satellite Chemical）\n- **目的国**：中国\n- **合同量**：**300/400万吨**，表示当前合同为300万吨，终端设计能力可达400万吨\n- **历年出口量**：\n  - 2016–2020年：无出口（“-”表示未运行）\n  - 从**2021年起开始出口300万吨**，并持续至2025年\n- **说明**：该终端是较晚投入运营的设施，服务于中国市场，未来仍有100万吨扩展潜力。\n\n---\n\n### 三、整体出口能力汇总\n\n虽然没有总合计行，但可以推算美国现有乙烷出口能力的总量：",
+            "metadata": {
+                "type": "table",
+                "start_index": 1157,
+                "pk": "bba365ce-a079-4cd2-99d6-d22cadb2d0ef",
+                "filename": "卫星化学-公司研究报告-烯烃增量渐近高端新材料引领成长-25071434页.pdf",
+                "page": 12,
+                "table_body": "<table><tr><td>出口终端</td><td>合同公司</td><td>目的国</td><td>合同量</td><td>2016</td><td>2017</td><td>2018</td><td>2019</td><td>2020</td><td>2021</td><td>2022</td><td>2023</td><td>2024</td><td>2025</td></tr><tr><td>Marcus Hook</td><td>英力士</td><td>挪威</td><td>50</td><td>25</td><td>40</td><td>50</td><td>50</td><td>50</td><td>50</td><td>50</td><td>50</td><td>50</td><td>50</td></tr><tr><td>(ETP)</td><td>英力士</td><td>英国</td><td>65</td><td>5</td><td>15</td><td>65</td><td>65</td><td>65</td><td>65</td><td>65</td><td>65</td><td>65</td><td>65</td></tr><tr><td></td><td>北欧化工</td><td>瑞典</td><td>25</td><td>-</td><td>25</td><td>25</td><td>25</td><td>25</td><td>25</td><td>25</td><td>25</td><td>25</td><td>25</td></tr><tr><td>出口合计</td><td></td><td></td><td>140/140</td><td>30</td><td>80</td><td>140</td><td>140</td><td>140</td><td>140</td><td>140</td><td>140</td><td>140</td><td>140</td></tr><tr><td>Morgan&#x27; s Point</td><td>信实</td><td>印度</td><td>150</td><td>-</td><td>150</td><td>150</td><td>150</td><td>150</td><td>150</td><td>150</td><td>150</td><td>150</td><td>150</td></tr><tr><td rowspan=\"4\">(Enterprise)</td><td>英力士</td><td>英国</td><td>50</td><td>20</td><td>50</td><td>50</td><td>50</td><td>50</td><td>50</td><td>50</td><td>50</td><td>50</td><td>50</td></tr><tr><td>沙比克</td><td>英国</td><td>100</td><td>-</td><td>80</td><td>100</td><td>100</td><td>100</td><td>100</td><td>100</td><td>100</td><td>100</td><td>100</td></tr><tr><td>布拉斯科</td><td>巴西</td><td>20</td><td>-</td><td>10</td><td>20</td><td>20</td><td>20</td><td>20</td><td>20</td><td>20</td><td>20</td><td>20</td></tr><tr><td>其他</td><td></td><td>40</td><td>-</td><td>-</td><td>40</td><td>40</td><td>40</td><td>40</td><td>40</td><td>40</td><td>40</td><td>40</td></tr><tr><td>出口合计</td><td></td><td></td><td>360/410</td><td>20</td><td>290</td><td>360</td><td>360</td><td>360</td><td>360</td><td>360</td><td>360</td><td>360</td><td>360</td></tr><tr><td>Nederland (ETP)</td><td>卫星化学</td><td>中国</td><td>300/400</td><td>-</td><td>-</td><td>-</td><td>-</td><td>-</td><td>300</td><td>300</td><td>300</td><td>300</td><td>300</td></tr></table>",
+                "img_path": "images/02802949e5085d48fe8e9c2e24dbd4a308a79512ab8b9a134b545e525422cf22.jpg"
+            }
+        },
+        {
+            "page_content": "乙烷常温下为气体，其沸点为- $\\cdot 8 8 . 6 ^ { \\circ } C$ ，较丙烷 $( - 4 2 . 1 ^ { \\circ } \\mathsf { C } )$ ）更低，因此运输与储存难度更大，对管道、码头、船只等要求更高；此外乙烷基本只能作为生产乙烯的原材料使用，缺乏额外的经济用途导致难以形成成熟的贸易市场，全球贸易多为点对点。鉴于乙烷的特殊性，全球仅有美国具备乙烷出口的能力。美国目前共有三处码头可供乙烷出口，分别为是由Enterprise Products Partners 运营的 Morgan’s Point 港口、Energy Transfer 运营的 MarcusHook 港口、Energy Transfer 与卫星化学合资公司 Orbit 运营的 Nederland 港口。Nederland港口主要定向供应卫星化学，年出口能力约为 400 万吨；其余两处港口主要供应英力士、北欧化工、沙比克、印度信实等公司，出口能力基本已至极限。",
+            "metadata": {
+                "type": "text",
+                "start_index": 0,
+                "pk": "fddbd0ce-aa24-4981-b704-1805329b2574",
+                "filename": "卫星化学-公司研究报告-烯烃增量渐近高端新材料引领成长-25071434页.pdf",
+                "page": 12,
+                "table_body": "None",
+                "img_path": "None"
+            }
+        },
+        {
+            "page_content": "鉴于乙烷特殊的资源品属性以及美国出口能力限制，目前我国乙烯产能结构中仍以石脑油路线为主，乙烷裂解产能相对有限。在产企业中，中石油塔里木石化、中石油兰州石化可依靠自产乙烷，但装置规模相对较小；新浦化学装置为乙丙烷混料，乙烷采购自英力士，来源相对稳定；三江化工自 2023 年改进进料结构，采用乙烷、丙烷、LPG、石脑油混合进料，但乙烷进口能力相对有限；华泰盛富于 2024 年底完成进料结构改造，开始少量进口乙烷使用；中英天津石化装置仍以石脑油进料为主，少部分采用 LNG分离出的乙烷/丙烷进料。卫星化学凭借美国自有港口以及自有 VLEC 船只优势，乙烷进口来源稳定且充裕，现有与在建产能均可实现完全乙烷进料。",
+            "metadata": {
+                "type": "text",
+                "start_index": 0,
+                "pk": "dde05afb-6b0a-40f0-b1b3-1daa3b0c0444",
+                "filename": "卫星化学-公司研究报告-烯烃增量渐近高端新材料引领成长-25071434页.pdf",
+                "page": 13,
+                "table_body": "None",
+                "img_path": "None"
+            }
+        }
+    ],
+    "filename": "卫星化学-公司研究报告-烯烃增量渐近高端新材料引领成长-25071434页.pdf",
+    "page": 12
+}

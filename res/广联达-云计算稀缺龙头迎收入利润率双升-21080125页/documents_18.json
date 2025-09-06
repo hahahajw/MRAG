@@ -1,0 +1,22 @@
+[
+    {
+        "page_content": "这张图片的标题为“图18、广联达施工业务三大板块”，展示了广联达在建筑施工领域数字化转型中的三大核心业务板块，分别是：**数字企业**、**BIM建造** 和 **智慧工地**。这三大板块覆盖了工程建设全生命周期（从规划、设计与工程、施工到运营）中的不同阶段，并通过多种数字技术实现深度融合与集成。\n\n---\n\n### 一、整体结构布局\n\n图像采用横向流程图形式，横轴表示工程建设的四个主要阶段：\n- **PLANNING（规划）**\n- **DESIGN AND ENGINEERING（设计与工程）**\n- **CONSTRUCTION（施工）**\n- **OPERATIONS（运营）**\n\n纵轴表示技术整合程度，由下至上依次为：\n- **Sensors and equipment（传感器与设备）**\n- **Digital/physical integration layer（数字/物理集成层）**\n- **Software platform and control（软件平台与控制）**\n- **User interfaces and applications（用户界面与应用）**\n\n整个图示强调“**Life cycle integration（全生命周期集成）**”和“**Technology integration（技术集成）**”两个关键理念。\n\n---\n\n### 二、三大业务板块详解\n\n#### 1. 数字企业（顶部蓝色区域）\n位于最上层，代表企业级数字化管理与协同平台，侧重于提升企业管理效率和决策能力。\n- **核心技术与功能**：\n  - Big data analytics（大数据分析）\n  - Simulation and virtual reality（仿真与虚拟现实）\n  - Mobile interfaces and augmented reality（移动端接口与增强现实）\n- **应用场景**：\n  - 支持项目全过程的数据驱动决策\n  - 提供可视化管理工具，如VR/AR用于方案评审\n  - 实现跨部门、跨项目的协同办公\n- **目标**：打造高效、智能的企业运营体系，服务于管理层与项目负责人。\n\n#### 2. BIM建造（中间黄色椭圆区域）\n这是贯穿全生命周期的核心技术平台，是广联达施工业务的中坚力量。\n- **核心技术与功能**：\n  - Building Information Modeling (in the cloud)（基于云的建筑信息模型）\n  - Simulation and virtual reality（仿真与虚拟现实）\n  - Mobile interfaces and augmented reality（移动端与增强现实）\n- **覆盖阶段**：从设计到施工再到运维，实现数据连续性\n- **关键价值**：\n  - 实现“以BIM为核心”的全流程数字化建造\n  - 支持多专业协同设计、碰撞检测、进度模拟等\n  - 通过云平台实现多方共享与协作\n- **定位**：连接“数字企业”与“智慧工地”的桥梁，是实现数字化转型的关键引擎。\n\n#### 3. 智慧工地（底部绿色区域）\n聚焦施工现场的智能化升级，强调物联网、自动化与实时监控。\n- **核心技术与功能**：\n  - Ubiquitous connectivity and tracking（无处不在的连接与追踪）\n  - Additive manufacturing（增材制造，即3D打印）\n  - Intelligent construction equipment and robotics（智能施工设备与机器人）\n  - Unmanned aerial vehicles（无人机）\n  - Embedded sensors（嵌入式传感器）\n- **典型应用**：\n  - 利用无人机进行现场巡检与进度采集\n  - 使用智能机械臂或自动吊装设备提高作业效率\n  - 通过传感器实时监测环境、安全、质量参数\n- **目标**：构建安全、高效、可控的现代化施工环境，推动“人机协同”模式发展。\n\n---\n\n### 三、技术层级支撑\n\n左侧竖向列出了四层技术基础，支撑上述三大板块：\n1. **Sensors and equipment**：提供原始数据输入（如温湿度、位移、振动等）\n2. **Digital/physical integration layer**：实现物理世界与数字世界的交互（如IoT网关、边缘计算）\n3. **Software platform and control**：运行各类管理系统（如ERP、MES、BIM系统）\n4. **User interfaces and applications**：面向用户的操作界面（APP、Web端、大屏展示）\n\n---\n\n### 四、总结\n\n该图清晰地描绘了广联达在施工业务领域的战略布局——**以BIM建造为核心，向上延伸至数字企业，向下拓展至智慧工地**，形成一个完整的“数字建造生态系统”。\n\n- **BIM建造** 是数据中枢，打通设计与施工之间的信息壁垒；\n- **数字企业** 赋能管理决策，提升组织效率；\n- **智慧工地** 推动现场执行智能化，保障安全与质量。\n\n这种“三位一体”的架构体现了广联达从传统软件服务商向“数字建造综合解决方案提供商”的战略转型方向，也反映了当前建筑业向工业化、智能化发展的趋势。",
+        "metadata": {
+            "filename": "广联达-云计算稀缺龙头迎收入利润率双升-21080125页.pdf",
+            "page": 18,
+            "type": "image",
+            "img_path": "images/e2361d799e1f1baaa14b8e27a1fad3a3180eb832cbc2b4b399fe82f3042c7f0b.jpg",
+            "table_body": "None"
+        }
+    },
+    {
+        "page_content": "# 3.2 打造三大产品板块，体系朝平台+模块升级\n广联达顺应行业趋势，面向施工领域，推出三大产品板块，分别是智慧工地、BIM建造、数字企业。覆盖了岗位级、项目级、企业级应用体系。\n智慧工地：主要围绕智慧工地现场管理等业务场景，推出各类软硬件产品，打造一体化智慧工地解决方案。核心产品为：广联达智能物料验收系统、智能安全帽、协筑等产品，通过 IOT、AI、云计算等技术帮助工地实现物料精准验收、人员安全管理、项目信息高效沟通等功能。\nBIM建造：面向施工阶段，提供基于BIM项目精细化管理产品和服务解决方案。核心产品包括BIM 5D、斑马进度计划、BIM模板脚手架设计、BIM施工现场布置等。通过对BIM技术的应用，实现对项目的精细化管理，\n数字企业：主要包括项目管理、集采等业务。该业务核心产品包括广联达协同运营、广联达集采电商、施工企业项目管理系统、企业BI数据决策平台。\n",
+        "metadata": {
+            "filename": "广联达-云计算稀缺龙头迎收入利润率双升-21080125页.pdf",
+            "page": 18,
+            "type": "text",
+            "img_path": "None",
+            "table_body": "None"
+        }
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "page_content": "图 38：Autodesk 提供的解决方案\n\n这张图表展示了 Autodesk 针对不同客户群体提供的三种主要解决方案模式，分别是“Most Customers”（大多数客户）、“EBA（Enterprise Business Agreement）”（企业业务协议）和“Pay Per Use”（按使用付费）。图表通过横向对比的方式，从六个维度详细说明了这三种方案在产品、期限、访问方式、服务计划、附加服务以及支付方式上的差异。\n\n### 图表结构：\n图表左侧为六个分类维度，每个维度用不同颜色标识，并对应右侧三列中的具体选项。每一列代表一种解决方案类型。\n\n---\n\n### 1. **Product（产品）**\n- **Most Customers**：Single Product（单一产品）\n- **EBA**：Portfolio（产品组合）\n- **Pay Per Use**：Portfolio（产品组合）\n\n> 说明：大多数客户购买单个产品；而 EBA 和按使用付费模式均提供产品组合，意味着用户可访问多个软件工具。\n\n---\n\n### 2. **Term（期限）**\n- **Most Customers**：Year（年度）\n- **EBA**：Multi-year（多年期）\n- **Pay Per Use**：Year（年度）\n\n> 说明：EBA 是长期合约，通常覆盖数年；其他两种模式均为一年期。\n\n---\n\n### 3. **Access（访问权限）**\n- **Most Customers**：Assigned（指定分配）\n- **EBA**：Flex（灵活分配）\n- **Pay Per Use**：Flex（灵活分配）\n\n> 说明：“Assigned”表示许可证绑定到特定用户；“Flex”允许更灵活地在团队成员间共享或调整使用权。\n\n---\n\n### 4. **Plan（服务计划）**\n- **Most Customers**：Standard（标准版）\n- **EBA**：Enterprise（企业版）\n- **Pay Per Use**：Premium（高级版）\n\n> 说明：不同方案对应不同的服务等级。EBA 提供最高级别的企业级支持和服务；按使用付费提供高级功能，但可能不包含全部企业特性。\n\n---\n\n### 5. **Add ons（附加服务）**\n- **Most Customers**：无\n- **EBA**：Consulting（咨询服务）\n- **Pay Per Use**：无\n\n> 说明：只有 EBA 模式包含额外的咨询服务，帮助企业实施和优化软件使用，体现其为企业客户提供定制化支持的特点。\n\n---\n\n### 6. **Payment（支付方式）**\n- **Most Customers**：Cash（现金支付）\n- **EBA**：Token（代币制）\n- **Pay Per Use**：Token（代币制）\n\n> 说明：EBA 和按使用付费采用基于“Token”的计费机制，即根据实际使用的资源或功能消耗来结算；而大多数客户直接以现金形式一次性付款。\n\n---\n\n### 总结：\n该图清晰地呈现了 Autodesk 如何根据不同客户需求设计差异化的产品与服务策略：\n\n- **Most Customers**：适合中小型企业或个人用户，提供简单、短期、标准化的单一产品订阅。\n- **EBA**：面向大型企业客户，提供全面的产品组合、多年合同、灵活访问、高级支持及咨询等增值服务，强调长期合作关系。\n- **Pay Per Use**：适用于需要弹性使用资源的客户，如项目制团队或临时需求，提供按需使用的灵活性，但仍基于 Token 计费体系。\n\n整体来看，Autodesk 的解决方案架构体现了从基础到高端、从固定到灵活的多层级服务体系，满足不同类型客户的多样化需求。",
+        "metadata": {
+            "filename": "广联达-深度跟踪报告设计助推数字建筑一体化落地-22031838页.pdf",
+            "page": 29,
+            "type": "image",
+            "img_path": "images/fec4e34edc28391b0873858f6b28fe822d20ffa5bddbc283f4dedbe6a4ca22cb.jpg",
+            "table_body": "None"
+        }
+    },
+    {
+        "page_content": "图39：Autodesk Token 收费方案（部分）展示了 Autodesk 公司旗下部分软件产品的 token 收费模式，以图标、产品名称、所需 token 数量及对应价格的形式呈现。图像共包含六款软件，分为两行三列布局，每项内容包括软件图标、名称、token 数量和美元价格。\n\n具体内容如下：\n\n**第一行：**\n1. **AutoCAD**  \n   - 图标：红色的“A”字母，背景为浅米色。  \n   - 信息：7 tokens，价格为 $21。\n\n2. **Revit**  \n   - 图标：蓝色的“R”字母，背景为浅蓝灰色。  \n   - 信息：10 tokens，价格为 $30。\n\n3. **Maya**  \n   - 图标：青绿色的“M”字母，下方有小字“MAYA”，背景为浅蓝绿色。  \n   - 信息：6 tokens，价格为 $18。\n\n**第二行：**\n4. **Inventor**  \n   - 图标：橙棕色的“I”字母，背景为浅米色。  \n   - 信息：8 tokens，价格为 $24。\n\n5. **3ds Max**  \n   - 图标：青绿色的“3”数字，下方有小字“MAX”，背景为浅蓝绿色。  \n   - 信息：6 tokens，价格为 $18。\n\n6. **Fusion 360**  \n   - 图标：橙棕色的“F”字母，右下角有“360”字样，背景为浅米色。  \n   - 信息：2 tokens，价格为 $6。\n\n整体设计简洁明了，采用统一的图标风格与文字排版，便于用户快速对比不同软件的 token 消耗与定价。该图旨在说明 Autodesk 软件在基于 token 的订阅模式下的部分收费情况，反映其灵活的使用成本结构。",
+        "metadata": {
+            "filename": "广联达-深度跟踪报告设计助推数字建筑一体化落地-22031838页.pdf",
+            "page": 29,
+            "type": "image",
+            "img_path": "images/881cc37a34f2875bb2732ed2aca561e31f857f9c402b6eb4c2f32eb37919e5db.jpg",
+            "table_body": "None"
+        }
+    },
+    {
+        "page_content": "代币支付机制进一步提高了用户的自由度，拓宽了用户规模。Autodesk 自 2016 年便开始探索代币支付机制，现已有AutoCAD、Revit以及Maya等共计31款产品可以用Autodesk 的Token 购买。代币支付机制主要面向使用频率较低的一般消费者与企业客户(EBA，EnterpriseBusiness Agreement)。对于前者，产品使用成本降低，可选择范围更加广泛；对于后者，软件购置后闲置成本大大降低，能够有效降本增效。\n# ◼ 广联达设计业务：自研+收购，打造数字设计平台\n# 自研图形平台，奠定设计软件基础能力\n公司从造价与施工切入，持续积累图形平台能力，奠定设计产品底层能力。自2010年上市以来，广联达一直将图形平台的研发与造价、施工等业务相结合，持续推进图形平台与设计产品的研发工作，奠定了其底层设计产品的开发能力。\n",
+        "metadata": {
+            "filename": "广联达-深度跟踪报告设计助推数字建筑一体化落地-22031838页.pdf",
+            "page": 29,
+            "type": "text",
+            "img_path": "None",
+            "table_body": "None"
+        }
+    }
+]

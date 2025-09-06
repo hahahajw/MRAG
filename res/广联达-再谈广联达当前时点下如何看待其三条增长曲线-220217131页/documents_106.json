@@ -1,0 +1,22 @@
+[
+    {
+        "page_content": "这张图片的标题为“图表196：Bentley 发展历程”，是一张展示 **Bentley Systems** 公司在工程软件领域技术演进与产品发展路径的时间轴图。该图通过横向时间轴和纵向功能层级，清晰地呈现了 Bentley 从 1984 年至今在企业系统（Enterprise Systems）和工程应用（Engineering Applications）两大方向上的发展历程。\n\n---\n\n### 一、整体结构\n\n- **横轴**：表示时间线，从 **1984 年** 到 **2020 年**，关键节点包括 1984、2000、2005、2010、2015、2020。\n- **纵轴**：分为两个主要部分：\n  - 上半部分：**Enterprise Systems**（企业级系统）\n  - 下半部分：**Engineering Applications**（工程应用）\n\n两条主轴之间用颜色区分不同阶段的技术演进，并以箭头形式展示各产品的持续发展与扩展。\n\n---\n\n### 二、工程应用（Engineering Applications）——底部区域\n\n这部分展示了 Bentley 在设计与建模工具方面的核心技术演进：\n\n1. **MicroStation**（深蓝色条形）\n   - 起始于 **1984 年**，是 Bentley 的核心平台之一。\n   - 持续发展至 2020 年，作为基础平台支持后续所有应用。\n   - 表明其长期稳定性和重要性。\n\n2. **2D CAD**（绿色条形）\n   - 出现在 **1984 年**，是早期计算机辅助设计的基础。\n   - 随着时间推移逐渐被更高级别工具替代。\n\n3. **2.5D GIS**（浅绿色条形）\n   - 约在 **2000 年前后**引入，代表地理信息系统在二维基础上的增强。\n   - 向三维空间过渡的重要一步。\n\n4. **3D BIM**（青色条形）\n   - 从 **2005 年左右**开始普及，标志着建筑信息模型（Building Information Modeling）成为主流。\n   - 是现代基础设施设计的核心技术。\n\n5. **Open Modeling Applications**（深蓝条形）\n   - 从 **2010 年起**推出，强调开放标准下的建模能力。\n   - 支持多格式数据集成，提升协作效率。\n\n6. **Open Simulation Applications**（黑色条形）\n   - 约 **2015 年后**出现，用于模拟分析如结构、流体、热力等物理行为。\n   - 体现从静态建模向动态仿真发展的趋势。\n\n7. **Reality Modeling**（深蓝条形）\n   - 从 **2015 年起**显著发展，结合摄影测量、激光扫描等技术生成真实世界数字模型。\n   - 是实现“数字孪生”（Digital Twin）的关键步骤。\n\n---\n\n### 三、企业系统（Enterprise Systems）——顶部区域\n\n这部分展示了 Bentley 如何将工程数据整合到企业级管理平台中，实现全生命周期管理：\n\n1. **ProjectWise**（灰色条形）\n   - 起步于 **2000 年前**，是 Bentley 的项目协同与信息管理平台。\n   - 一直延续到 2020 年，是企业级数据管理的核心。\n\n2. **AssetWise**（灰色条形）\n   - 约 **2005 年后**推出，专注于资产运维与设施管理。\n   - 支持大型基础设施项目的资产管理需求。\n\n3. **iTwin Cloud Services**（浅灰条形）\n   - 自 **2015 年起**发展，是 Bentley 推出的云服务平台。\n   - 实现跨平台、跨设备的数据共享与协作，是数字化转型的关键。\n\n4. **4D Digital Twins**（最右侧蓝色区域）\n   - 位于整个图表的右上角，代表未来发展方向。\n   - “4D”指时间维度（即 3D + 时间），强调对基础设施全生命周期的动态监控与预测。\n   - 由 iTwin Cloud Services 和 Reality Modeling 等技术支撑，形成完整的“数字孪生”生态系统。\n\n---\n\n### 四、关键时间节点标注\n\n- **2015 年**：被特别标记为橙色圆点，是 Bentley 技术转型的重要分水岭。\n  - 此时，Reality Modeling、Open Simulation、iTwin Cloud Services 等新技术集中涌现。\n  - 标志着从传统 CAD/BIM 向智能、互联、云原生的数字孪生时代迈进。\n\n---\n\n### 五、总结：Bentley 发展战略演变\n\n这张图揭示了 Bentley 的发展战略：\n\n1. **从工具 → 平台**  \n   从最初的 MicroStation、2D CAD 工具，逐步发展为统一的工程平台（如 ProjectWise、iTwin）。\n\n2. **从二维 → 三维 → 四维**  \n   技术维度不断升级，最终目标是构建可实时更新的 **4D 数字孪生**。\n\n3. **从本地部署 → 云服务**  \n   引入 iTwin Cloud Services，推动产品向 SaaS 化、全球化服务转型。\n\n4. **从单点应用 → 生态系统**  \n   构建覆盖设计、施工、运营全流程的完整解决方案，服务于交通、能源、城市等基础设施行业。\n\n---\n\n### 六、视觉设计特点\n\n- 使用不同颜色区分技术层级：\n  - 绿色系：早期基础工具\n  - 青色/蓝色系：现代建模与仿真\n  - 灰色系：企业管理系统\n  - 深蓝/黑色：高阶应用\n- 箭头指向右方，象征技术的持续演进与扩展。\n- 右侧“4D DIGITAL TWINS”竖排文字突出未来愿景。\n\n---\n\n### 结论\n\n这张图不仅展示了 Bentley 公司的技术演进史，也反映了整个工程行业从传统设计走向智能化、数字化、云化的发展趋势。它体现了 Bentley 作为全球领先的基础设施软件提供商，在推动“数字孪生”和智慧城市建设中的核心地位。",
+        "metadata": {
+            "filename": "广联达-再谈广联达当前时点下如何看待其三条增长曲线-220217131页.pdf",
+            "page": 106,
+            "type": "image",
+            "img_path": "images/0dd9fa810d39ab9b902389830fe769fb9b7b9166b967dc047cd158419d78405d.jpg",
+            "table_body": "None"
+        }
+    },
+    {
+        "page_content": "\nBentley的发展历程如下:\n1984 年，Bentley 推出基础设施专用的2D 设计平台 MicroStation。20 世纪 90 年代，Bentley将GIS 融入产品线中，并将公司产品线升级为2.5D。1999 年，Bentley 推出项目交付领域的拳头产品ProjectWise。2000 年起， Bentley陆续推出 Open 系列专业领域建模应用软件， Bentley正式进入3D BIM 建模时代。2004 年起，Bentley 陆续推出Open 系列仿真分析应用软件。2009 年，Bentley 推出资产生命周期管理的拳头产品AssetWise，开始布局项目交付后资产运营管理领域。■ 2016 年，Bentley 推出实景建模产品，并于同年推出数字孪生云服务iTwin Cloud Services，正式开拓数字孪生市场。\nBentley 产品线结构：两个维度、四种分类。根据产品的功能形态，Bentley的产品可以按应用、系统划分为两个维度。同时，根据产品的应用阶段，Bentley 的产品可以划分为设计集成（Design Integration )、项目交付(ProjectDelivery )、资产与网络性能（Asset and Network Performance）与数字城市（Digital Cities）四部分。\n图表 197：Bentley 软件产品整体架构产品整体结构：一个平台，一组数据，一个数据架构。Bentley 产品的整体架构可以概括为“一个平台，一组数据，一个数据架构”：\n",
+        "metadata": {
+            "filename": "广联达-再谈广联达当前时点下如何看待其三条增长曲线-220217131页.pdf",
+            "page": 106,
+            "type": "text",
+            "img_path": "None",
+            "table_body": "None"
+        }
+    }
+]

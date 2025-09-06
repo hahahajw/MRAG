@@ -1,0 +1,32 @@
+[
+    {
+        "page_content": "图15：中国CAD市场格局（2018年）是一张饼状图，展示了2018年中国计算机辅助设计（CAD）软件市场的份额分布情况。该图通过不同颜色的扇形区域表示各大CAD软件供应商在中国市场的占有率，并在右侧附有图例说明各颜色对应的品牌。\n\n具体来看：\n\n- **CATIA**（深红色）占据最大市场份额，为 **25%**，是当时中国市场中份额最高的CAD软件。\n- **PTC**（黑色）占比为 **18%**，位居第二。\n- **西门子**（红色）同样占 **18%**，与PTC并列第二。\n- **Autodesk**（灰色）占 **14%**，位列第四。\n- **Solidworks**（浅粉色）占 **7%**。\n- **Bentley**（更浅的粉红色）占 **6%**。\n- **其他**（最浅的粉红色）合计占 **12%**，代表除上述品牌外的其他CAD软件厂商的总和。\n\n从整体结构看，前三大厂商（CATIA、PTC、西门子）合计占据市场约 **61%** 的份额，显示出高度集中的市场格局。而Autodesk作为国际主流CAD厂商之一，在中国市场也占有一定地位。相比之下，Solidworks和Bentley的市场份额较小，其他厂商则处于分散状态。\n\n此图清晰地反映了2018年中国CAD市场由少数几家国际巨头主导的竞争态势，其中达索系统（CATIA所属公司）具有明显领先优势。",
+        "metadata": {
+            "filename": "广联达-深度跟踪报告设计助推数字建筑一体化落地-22031838页.pdf",
+            "page": 16,
+            "type": "image",
+            "img_path": "images/4a39e9389146532076c61ae07a6cc066419ba0291bf33000557bc2375778b849.jpg",
+            "table_body": "None"
+        }
+    },
+    {
+        "page_content": "这张表格的标题为“**表8：Autodesk 产品体系**”，主要展示了Autodesk公司针对不同行业应用场景所涵盖的产品线，重点聚焦于**工程建设**和**产品设计**两大领域。表格通过分类方式呈现了各场景下的细分应用方向及其对应使用的核心软件产品。\n\n以下是该表格内容的详细描述：\n\n---\n\n### 一、工程建设（Construction）\n\n该大类下包含五个子方向，其中前三个为细分专业领域，后两个则列出了具体使用的Autodesk产品：\n\n1. **建筑（Architecture）**  \n   - 未列出具体产品，表明此为建筑方向的分类入口，可能在其他资料中进一步展开。\n\n2. **结构设计（Structural Design）**  \n   - 同样未列出具体产品，作为结构工程设计的专业方向分类。\n\n3. **机电设计（MEP Design）**  \n   - 指机械、电气与管道系统的设计，也未列出具体产品，属于专业划分项。\n\n4. **施工（Construction）**  \n   - 列出的具体产品包括：  \n     **AutoCAD、Revit、Advance Steel、Infraworks、Navisworks、Recap Pro、Point Layout**  \n   - 这些工具广泛应用于施工阶段的建模、协调、现场放样、进度模拟和数据整合：\n     - **Revit**：用于建筑信息模型（BIM）创建；\n     - **Navisworks**：用于多专业模型整合与碰撞检测；\n     - **Recap Pro**：处理点云数据，支持现实捕捉；\n     - **Point Layout**：实现在施工现场进行数字化放样；\n     - **Advance Steel**：专用于钢结构详图设计与制造。\n\n5. **基础设施 产品设计和**（标题略有不完整，应为“基础设施设计”或“基础设施产品设计与施工”）  \n   - 使用的产品包括：  \n     **AutoCAD、Navisworks、Revit、Civil 3D、Infraworks、Recap Pro、Vault、Structural Bridge Design、Point Layout**\n   - 此方向面向道路、桥梁、市政等基础设施项目，关键产品功能如下：\n     - **Civil 3D**：核心土木工程设计软件，用于地形建模、道路路线设计；\n     - **Infraworks**：提供大规模基础设施概念设计与可视化；\n     - **Structural Bridge Design**：专门用于桥梁结构分析与设计；\n     - **Vault**：数据管理平台，支持设计文件版本控制与协同；\n     - 其余产品如Revit、Navisworks等同样用于BIM协同与施工准备。\n\n---\n\n### 二、产品设计（Product Design）\n\n该大类包含三个子方向，其中“工程”和“制造和生产”列出了具体产品，“仿真和分析”暂无产品列出。\n\n1. **工程（Engineering）**  \n   - 使用的产品包括：  \n     **Inventor、AutoCAD、Fusion 360、3DS MAX、Maya、Autodesk Rendering、Factory Design Utilities、Autodesk Drive、Vault、Alias、Vred、ShotGrid、Fusion Team、Point Layout**\n   - 覆盖机械设计、工业设计、可视化、协同管理等多个环节：\n     - **Inventor**：主流三维机械设计CAD工具；\n     - **Fusion 360**：集成CAD/CAM/CAE的云端平台，适用于中小企业创新设计；\n     - **AutoCAD**：通用二维/三维设计基础平台；\n     - **3DS MAX、Maya、Vred、Alias**：主要用于高阶视觉效果、动画与汽车造型设计；\n     - **Autodesk Rendering**：云渲染服务；\n     - **Factory Design Utilities**：用于工厂布局与设备布置；\n     - **Autodesk Drive / Fusion Team**：设计数据协作与项目管理工具；\n     - **Vault**：PLM（产品生命周期管理）数据管理；\n     - **ShotGrid**（原Shotgun）：影视与创意制作流程管理平台。\n\n2. **仿真和分析（Simulation & Analysis）**  \n   - 表格中未列出具体产品，但根据Autodesk产品线，此部分通常包括：\n     - **Autodesk Simulation Mechanical**\n     - **Nastran In-CAD**\n     - **Fusion 360 Simulation**\n     - 用于结构强度、热传导、运动学等方面的仿真分析。\n\n3. **制造和生产（Manufacturing & Production）**  \n   - 使用的产品包括：  \n     **Inventor CAM、HSMWorks、Fusion 360、Inventor Nesting、Factory Design Utilities、PowerMill、PowerShape**\n   - 主要支持从设计到加工的数字化制造流程：\n     - **Inventor CAM / HSMWorks**：集成在Inventor和SolidWorks中的CAM模块，用于数控编程；\n     - **Fusion 360**：兼具设计与加工能力，支持从原型到生产的全流程；\n     - **Inventor Nesting**：自动板材排料优化工具；\n     - **PowerMill**：高端多轴数控加工编程软件；\n     - **PowerShape**：用于复杂模具和冲压件的几何清理与准备。\n\n---\n\n### 总结\n\n该表格系统地梳理了Autodesk在两大核心行业领域的解决方案布局：\n\n- **工程建设领域**：以**Revit、Civil 3D、Navisworks、Infraworks**等为核心，构建从建筑设计、结构机电到施工与基础设施的全生命周期BIM技术体系。\n- **产品设计领域**：以**Inventor、Fusion 360、AutoCAD**为基础，结合**3DS MAX、Maya、Vred、Alias**等高端创意工具，以及**PowerMill、HSMWorks**等制造加工软件，形成覆盖设计、仿真、制造一体化的数字化产品开发平台。\n\n此外，多个产品如**AutoCAD、Revit、Navisworks、Recap Pro、Point Layout、Vault、Factory Design Utilities**在多个场景中重复出现，体现了Autodesk产品之间的高度集成性与跨领域协同能力。\n\n> 注：表格中存在少量排版问题，例如“基础设施 产品设计和”表述不完整，以及部分单元格为空（如“仿真和分析”无产品），可能是信息省略或待补充内容。但从整体来看，已清晰反映了Autodesk的产品生态架构。",
+        "metadata": {
+            "filename": "广联达-深度跟踪报告设计助推数字建筑一体化落地-22031838页.pdf",
+            "page": 16,
+            "type": "table",
+            "img_path": "images/db4fe7e233bc1d6e89252e1fcc1f2fa640b851c9bdd32ff6a85e7842ad30c10f.jpg",
+            "table_body": "<table><tr><td>场景</td><td>产品</td><td></td></tr><tr><td rowspan=\"5\">工程建设</td><td>建筑</td><td></td></tr><tr><td>结构设计</td><td></td></tr><tr><td>机电设计</td><td></td></tr><tr><td>施工</td><td>AutoCAD、Revit、Advance Steel、 Infraworks、Navisworks、Recap Pro、Point Layout。</td></tr><tr><td>基础设施 产品设计和</td><td>AutoCAD、Navisworks、Revit、Civil 3D、 Infraworks、Recap Pro、Vault、Structural Bridge Design、Point Layout。</td></tr><tr><td rowspan=\"3\">产品设计</td><td>工程</td><td>Inventor、AutoCAD、Fusion 360、3DS MAX、Maya、Autodesk Rendering、Factory Design Utilities、Autodesk Drive、Vault、Alias、Vred、ShotGrid、Fusion Team、Point Layout。</td></tr><tr><td>仿真和分析</td><td></td></tr><tr><td>制造和生产</td><td>Inventor CAM、HSMworks、Fusion 360、Inventor Nesting、Factory Design Utities、PowerMil、PowerShape、</td></tr></table>"
+        }
+    },
+    {
+        "page_content": "国产软件产品、市场规模整体弱于海外，但依靠技术积累、场景验证、政策支持，正加速追赶海外龙头。根据中商产业研究院数据，2018 年国内 CAD 软件市场规模约为 7.33亿美元， $9 5 \\%$ 以上的市场份额被国外软件所占据，主要包括达索（ $32 \\%$ ,CATIA &SolidWorks)、PTC( $1 8 \\%$ )、西门子（ $18 \\%$ )、Autodesk( $14 \\%$ )、Bentley $6 \\%$ ）等。国内CAD软件公司主要有中望软件、山大华天和数码大方等，但是在功能性能上与国外软件仍有较大差距，未能实质性地打破国外软件的垄断。但近年来，伴随技术积累、场景验证、政策支持，国内设计软件公司正缩小与海外龙头企业的差距。\n资料来源：中国工业技术软件化产业联盟，中信证券研究部\n# 他山之石—Autodesk：设计软件全球领军企业\n# 公司概述：设计软件全球领军企业，客户遍布各大领域\n产品结构：覆盖建筑、制造与传媒三大领域。Autodesk 为全球CAD 软件龙头企业，自 1982 年成立以来，其产品线从单一聚焦于建筑设计的 AutoCAD，已扩展至覆盖了工程建设（Architecture，Engineering & Construction)、产品设计与制造（Product Design &Manufacturing）以及传媒与娱乐（Media & Entertainment）三大领域的产品体系。\n",
+        "metadata": {
+            "filename": "广联达-深度跟踪报告设计助推数字建筑一体化落地-22031838页.pdf",
+            "page": 16,
+            "type": "text",
+            "img_path": "None",
+            "table_body": "None"
+        }
+    }
+]

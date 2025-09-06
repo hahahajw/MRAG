@@ -1,0 +1,44 @@
+{
+    "query": "文远知行在沙特的市场拓展战略是什么？",
+    "answer": "根据《亿欧中国企业出海沙特季度研究报告-AI专题2025Q267页.pdf》第6页，文远知行在沙特的市场拓展战略包括：1）计划于2025年内在沙特开展全面的Robotaxi商业化运营服务；2）未来数月内在Uber平台上线Robotaxi试运营；3）已在利雅得、埃尔奥拉等重点城市测试并部署Robotaxi、Robobus、Robosweeper等自动驾驶产品，为全域商业化运营奠定基础。此外，该战略旨在支持沙特‘2030愿景’，提升道路安全与交通管理效率，推动智能化、可持续城市发展。",
+    "similar_chunks": [
+        {
+            "page_content": "# 文远知行拟年内于沙特开展全面Robotaxi商业化运营服\n5月27日，自动驾驶科技公司文远知行WeRide公布沙特市场拓展战略，计划于2025年内在沙特开展全面的Robotaxi商业化运营服务，并于未来数月内在Uber平台上线Robotaxi试运营。作为进入沙特市场的第一步，文远知行已在利雅得、埃尔奥拉等沙特重点城市，测试并部署Robotaxi、Robobus、Robosweeper等自动驾驶产品，为后续公司在沙特全域范围内的规模商业化运营奠定基础。",
+            "metadata": {
+                "table_body": "None",
+                "filename": "亿欧中国企业出海沙特季度研究报告-AI专题2025Q267页.pdf",
+                "pk": "f628a9ab-93e3-4842-81f8-3a388eb495f5",
+                "page": 6,
+                "type": "text",
+                "img_path": "None",
+                "start_index": 551
+            }
+        },
+        {
+            "page_content": "# \n自动驾驶科技公司远知WeRide（Nasdaq：WRD）成于2017年，于2024年1025日在纳斯达克证券交易所挂牌上市。公司致于开发安全可靠的驾驶技术、提供自动驾驶解决方案，已进入自动驾驶商业化运营阶段。\n5月27日，文远知行公布沙特市场拓展战略，在利雅得、埃尔奥拉等沙特重点城市，测试并部署RobotaxiRobobus、RobosWeeper等自动驾驶产品。此外，在沙特运输总局(TGA)的肯定与持下，远知将于未来数内在Uber平台上线Robotaxi试运营，并计划于2025年内在沙特开展全面的Robotaxi商业化运营服务。",
+            "metadata": {
+                "table_body": "None",
+                "filename": "亿欧中国企业出海沙特季度研究报告-AI专题2025Q267页.pdf",
+                "pk": "31690ac5-9f31-4148-a2fd-233c102153dc",
+                "page": 56,
+                "type": "text",
+                "img_path": "None",
+                "start_index": 0
+            }
+        },
+        {
+            "page_content": "# \n此外，沙特市场有城市和旅行接驳、巨型综合体运维等多样的场景，满足文远知行商业化落地的需要。\n通过引进自动驾驶技术驱动的创新出行方案，文远知行将助力沙特多个城市提升道路安全性、优化交通运输管理，为沙特“2030愿景”提供强有力支持，推动沙特建设智能化、可持续发展的城市集群。",
+            "metadata": {
+                "table_body": "None",
+                "filename": "亿欧中国企业出海沙特季度研究报告-AI专题2025Q267页.pdf",
+                "pk": "4b457efc-fb5c-49b2-960c-89cd6e7be0cc",
+                "page": 59,
+                "type": "text",
+                "img_path": "None",
+                "start_index": 0
+            }
+        }
+    ],
+    "filename": "亿欧中国企业出海沙特季度研究报告-AI专题2025Q267页.pdf",
+    "page": 6
+}
